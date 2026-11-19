@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 185" width="1000" height="185" role="img" aria-label="Connected Tech Architecture Matrix">
+  <defs>
+    <linearGradient id="colBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+    <style><![CDATA[
+      .bus-flow { stroke-dasharray: 6 6; animation: busMove 1.8s linear infinite; }
+      @keyframes busMove { from { stroke-dashoffset: 24; } to { stroke-dashoffset: 0; } }
+      .dot-pulse { animation: dp 2.4s ease-in-out infinite; }
+      @keyframes dp { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+    ]]></style>
+  </defs>
+
+  <line class="bus-flow" x1="304" y1="92" x2="348" y2="92" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="304" cy="92" r="3" fill="#38bdf8"/>
+  <circle cx="348" cy="92" r="3" fill="#10b981"/>
+
+  <line class="bus-flow" x1="652" y1="92" x2="696" y2="92" stroke="#10b981" stroke-width="2"/>
+  <circle cx="652" cy="92" r="3" fill="#10b981"/>
+  <circle cx="696" cy="92" r="3" fill="#818cf8"/>
+
+  <g transform="translate(0, 4)">
+    <rect x="1" y="1" width="302" height="175" rx="14" fill="url(#colBg)" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="24" y="1" width="256" height="2" rx="1" fill="#38bdf8" opacity="0.8"/>
+    <circle class="dot-pulse" cx="22" cy="24" r="4" fill="#38bdf8"/>
+    <text x="34" y="28" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">DATA ENGINES</text>
+    <line x1="16" y1="42" x2="288" y2="42" stroke="#1e293b" stroke-width="1"/>
+
+    <g transform="translate(16, 56)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">
+      <rect x="0"   y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="26" text-anchor="middle" fill="#e2e8f0">Polars Stream</text>
+
+      <rect x="141" y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="26" text-anchor="middle" fill="#fde047">DuckDB 2.0</text>
+
+      <rect x="0"   y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="80" text-anchor="middle" fill="#38bdf8">Apache Arrow</text>
+
+      <rect x="141" y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="80" text-anchor="middle" fill="#cbd5e1">Pandas / NumPy</text>
+    </g>
+  </g>
+
+  <g transform="translate(348, 4)">
+    <rect x="1" y="1" width="302" height="175" rx="14" fill="url(#colBg)" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="24" y="1" width="256" height="2" rx="1" fill="#10b981" opacity="0.8"/>
+    <circle class="dot-pulse" cx="22" cy="24" r="4" fill="#10b981"/>
+    <text x="34" y="28" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">AI &amp; STATISTICS</text>
+    <line x1="16" y1="42" x2="288" y2="42" stroke="#1e293b" stroke-width="1"/>
+
+    <g transform="translate(16, 56)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">
+      <rect x="0"   y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="26" text-anchor="middle" fill="#a5b4fc">SciPy · BF10</text>
+
+      <rect x="141" y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="26" text-anchor="middle" fill="#34d399">Isolation Forest</text>
+
+      <rect x="0"   y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="80" text-anchor="middle" fill="#38bdf8">Data Healer</text>
+
+      <rect x="141" y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="80" text-anchor="middle" fill="#f9a8d4">ReportLab APA-7</text>
+    </g>
+  </g>
+
+  <g transform="translate(696, 4)">
+    <rect x="1" y="1" width="302" height="175" rx="14" fill="url(#colBg)" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="24" y="1" width="256" height="2" rx="1" fill="#818cf8" opacity="0.8"/>
+    <circle class="dot-pulse" cx="22" cy="24" r="4" fill="#818cf8"/>
+    <text x="34" y="28" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">WEB &amp; INFRA</text>
+    <line x1="16" y1="42" x2="288" y2="42" stroke="#1e293b" stroke-width="1"/>
+
+    <g transform="translate(16, 56)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">
+      <rect x="0"   y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="26" text-anchor="middle" fill="#e2e8f0">Python · Flask</text>
+
+      <rect x="141" y="0"  width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="26" text-anchor="middle" fill="#38bdf8">Plotly.js (60+)</text>
+
+      <rect x="0"   y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="65.5" y="80" text-anchor="middle" fill="#60a5fa">Docker · CI/CD</text>
+
+      <rect x="141" y="54" width="131" height="44" rx="8" fill="#090f1d" stroke="#1e293b"/>
+      <text x="206.5" y="80" text-anchor="middle" fill="#10b981">Win UIA · OCR</text>
+    </g>
+  </g>
+</svg>

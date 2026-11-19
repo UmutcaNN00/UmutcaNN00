@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 18" width="1000" height="18" role="img" aria-label="Neon Pulse Divider">
+  <defs>
+    <linearGradient id="divBase" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#1e293b" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#1e293b" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="divBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#10b981" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="divClip">
+      <rect x="0" y="0" width="1000" height="18"/>
+    </clipPath>
+    <style><![CDATA[
+      .pulse-beam { animation: beamGlide 4.2s ease-in-out infinite; }
+      @keyframes beamGlide { 0% { transform: translateX(-220px); opacity: 0.2; } 50% { opacity: 1; } 100% { transform: translateX(1020px); opacity: 0.2; } }
+    ]]></style>
+  </defs>
+  <g clip-path="url(#divClip)">
+    <rect x="0" y="8.5" width="1000" height="1" fill="url(#divBase)"/>
+    <rect class="pulse-beam" x="0" y="7.5" width="220" height="3" rx="1.5" fill="url(#divBeam)"/>
+  </g>
+</svg>

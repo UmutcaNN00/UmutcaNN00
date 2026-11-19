@@ -1,22 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Animated Footer Wave">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 95" width="1000" height="95" role="img" aria-label="Aurora Footer Wave">
   <defs>
-    <linearGradient id="waveCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.22"/>
       <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#10b981" stop-opacity="0.22"/>
     </linearGradient>
-    <linearGradient id="waveEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.2"/>
-      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.2"/>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.14"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.16"/>
     </linearGradient>
     <style><![CDATA[
       .w1 { animation: waveDrift1 9s ease-in-out infinite; }
       .w2 { animation: waveDrift2 12s ease-in-out infinite; }
+      .w3 { animation: waveDrift3 15s ease-in-out infinite; }
       @keyframes waveDrift1 { 0%, 100% { transform: translateX(0px); } 50% { transform: translateX(-35px); } }
-      @keyframes waveDrift2 { 0%, 100% { transform: translateX(-25px); } 50% { transform: translateX(15px); } }
+      @keyframes waveDrift2 { 0%, 100% { transform: translateX(-25px); } 50% { transform: translateX(18px); } }
+      @keyframes waveDrift3 { 0%, 100% { transform: translateX(10px); } 50% { transform: translateX(-28px); } }
+      .fp { animation: floatP 5s ease-in-out infinite; }
+      @keyframes floatP { 0%, 100% { transform: translateY(0px); opacity: 0.4; } 50% { transform: translateY(-10px); opacity: 0.95; } }
     ]]></style>
   </defs>
-  <path class="w1" d="M -50 45 Q 120 12, 290 45 T 630 45 T 970 45 T 1100 45 L 1100 95 L -50 95 Z" fill="url(#waveCyan)"/>
-  <path class="w2" d="M -50 56 Q 150 82, 340 52 T 700 54 T 1050 48 L 1050 95 L -50 95 Z" fill="url(#waveEmerald)"/>
+  <path class="w1" d="M -60 44 Q 120 12, 290 44 T 630 44 T 970 44 T 1120 44 L 1120 100 L -60 100 Z" fill="url(#wave1)"/>
+  <path class="w2" d="M -60 56 Q 150 84, 340 52 T 700 54 T 1060 48 L 1060 100 L -60 100 Z" fill="url(#wave2)"/>
+  <path class="w3" d="M -60 68 Q 180 42, 380 66 T 760 62 T 1100 66 L 1100 100 L -60 100 Z" fill="url(#wave3)"/>
+  <circle class="fp" cx="180" cy="34" r="2.2" fill="#38bdf8"/>
+  <circle class="fp" cx="510" cy="28" r="2.5" fill="#10b981"/>
+  <circle class="fp" cx="810" cy="36" r="2.0" fill="#818cf8"/>
 </svg>

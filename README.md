@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="Umutcan — Local-First Big Data & AI Systems" width="100%" />
+<img src="assets/hero-banner.svg" alt="Umutcan — Local-First Big Data &amp; AI Systems Architect" width="100%" />
 
 <br />
 
@@ -8,25 +8,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=B%C3%BCy%C3%BCk+Veri+Analiti%C4%9Fi+%26+Yerel-%C3%96ncelikli+Sistemler;Polars+Streaming+%C2%B7+DuckDB+2.0+%C2%B7+PyArrow+%C2%B7+SciPy+%C2%B7+Plotly;DataViz+%26+Otonom+Masa%C3%BCst%C3%BC+Ajanlar%C4%B1+Geli%C5%9Ftiriyorum;KVKK+%2F+GDPR+Uyumlu+%C2%B7+S%C4%B1f%C4%B1r+Bulut+%C2%B7+Y%C3%BCksek+Performans" alt="Typing SVG" />
 </a>
 
-<br />
-
-<img src="assets/terminal-card.svg" alt="Umutcan System Profile Terminal" width="100%" />
-
 </div>
 
----
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
-### 🚀 Öne Çıkan Projeler
+### ⚡ Öne Çıkan Projeler
 
-| Proje | Açıklama & Mimari | Durum |
-|---|---|---|
-| **📊 DataViz** | Kodlama gerektirmeyen, yerel-öncelikli büyük veri analitiği ve bilimsel istatistik platformu. Polars Streaming, DuckDB 2.0, PyArrow, 60 etkileşimli grafik, AI veri sağaltımı ve APA-7 PDF raporlama. | `Private · Ar-Ge` |
-| [**🖥️ desktop-vision-agent**](https://github.com/UmutcaNN00/desktop-vision-agent) | Yapay zekâ ajanları için Windows masaüstü algılama, çoklu monitör yakalama, UI Automation (UIA), çevrimdışı OCR ve işletim sistemi kontrol motoru. | `Public · Python` |
-| [**🗂️ Staj-Projeleri**](https://github.com/UmutcaNN00/Staj-Projeleri) | Operasyonel dijitalleşme ve veri yönetimi için LocalStorage tabanlı dinamik İK rehberi ve satın alma kayıt arayüzleri. | `Public · HTML/JS` |
+<p align="center">
+  <img src="assets/card-dataviz.svg" alt="DataViz Flagship Platform" width="100%" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/UmutcaNN00/desktop-vision-agent">
+    <img src="assets/card-vision.svg" alt="desktop-vision-agent" width="49%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/UmutcaNN00/Staj-Projeleri">
+    <img src="assets/card-staj.svg" alt="Staj-Projeleri" width="49%" />
+  </a>
+</p>
 
-### 🛠️ Teknoloji Yığını
+<img src="assets/divider.svg" alt="Divider" width="100%" />
+
+### 🛠️ Teknoloji Mimarisi
 
 <div align="center">
 
@@ -34,18 +38,21 @@
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-<img src="https://img.shields.io/badge/Apache_Arrow-0F172A?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Arrow" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="assets/tech-matrix.svg" alt="Connected Tech Architecture Matrix" width="100%" />
 
 </div>
 
----
+<img src="assets/divider.svg" alt="Divider" width="100%" />
+
+### 💻 Sistem Özeti
+
+<div align="center">
+
+<img src="assets/terminal-card.svg" alt="Umutcan HUD System Terminal" width="100%" />
+
+</div>
+
+<img src="assets/divider.svg" alt="Divider" width="100%" />
 
 ### 📈 Canlı İstatistikler & Katkı Animasyonu
 
@@ -59,23 +66,18 @@
 
 <br /><br />
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1&include_all_commits=true" alt="GitHub Stats" height="165" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=UmutcaNN00&theme=transparent&hide_border=true&ring=38BDF8&fire=10B981&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak" height="165" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&bg_color=0b1120&border_color=1e293b&border_radius=12&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=UmutcaNN00&background=0b1120&border_color=1e293b&border_radius=12&ring=38BDF8&fire=10B981&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=1e293b" alt="GitHub Streak" width="49%" />
+</p>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0d1117&color=94a3b8&line=38bdf8&point=10b981&area=true&area_color=0ea5e9&hide_border=true&custom_title=Aktivite%20Grafi%C4%9Fi" alt="Activity Wave Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0b1120&color=94a3b8&line=38bdf8&point=10b981&area=true&area_color=0ea5e9&border_color=1e293b&radius=12&custom_title=Aktivite%20Dalgas%C4%B1" alt="Activity Wave Graph" width="100%" />
 
 <br />
 
-<img src="assets/footer-wave.svg" alt="Footer Wave" width="100%" />
+<img src="assets/footer-wave.svg" alt="Aurora Footer Wave" width="100%" />
 
 </div>
