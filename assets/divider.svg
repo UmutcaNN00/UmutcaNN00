@@ -9,8 +9,8 @@
     <linearGradient id="divBeam" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
       <stop offset="45%" stop-color="#38bdf8" stop-opacity="0.95"/>
-      <stop offset="60%" stop-color="#30d158" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#30d158" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#0284c7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="divClip">
       <rect x="0" y="0" width="1000" height="18"/>

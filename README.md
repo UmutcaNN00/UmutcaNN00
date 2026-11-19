@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://github.com/UmutcaNN00">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=B%C3%BCy%C3%BCk+Veri+Analiti%C4%9Fi+%26+Yerel-%C3%96ncelikli+Sistemler;Polars+Streaming+%C2%B7+DuckDB+2.0+%C2%B7+PyArrow+%C2%B7+SciPy+%C2%B7+Plotly;DataViz+%26+Otonom+Masa%C3%BCst%C3%BC+Ajanlar%C4%B1+Geli%C5%9Ftiriyorum;KVKK+%2F+GDPR+Uyumlu+%C2%B7+S%C4%B1f%C4%B1r+Bulut+%C2%B7+Y%C3%BCksek+Performans" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=B%C3%BCy%C3%BCk+Veri+Analiti%C4%9Fi+%26+Yerel-%C3%96ncelikli+Sistemler;Polars+Streaming+%C2%B7+DuckDB+2.0+%C2%B7+PyArrow+%C2%B7+SciPy+%C2%B7+Plotly;DataViz+%26+Otonom+Masa%C3%BCst%C3%BC+Ajanlar%C4%B1+Geli%C5%9Ftiriyorum;KVKK+%2F+GDPR+Uyumlu+%C2%B7+S%C4%B1f%C4%B1r+Bulut+%C2%B7+Y%C3%BCksek+Performans" alt="Typing SVG" />
 </a>
 
 </div>
@@ -67,14 +67,14 @@
 <br /><br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&bg_color=0c0c0e&border_color=27272f&border_radius=12&title_color=38bdf8&icon_color=30d158&text_color=c4c4cc&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&bg_color=0c0c0e&border_color=27272f&border_radius=12&title_color=f5f5f7&icon_color=0284c7&text_color=c4c4cc&include_all_commits=true" alt="GitHub Stats" width="49%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=UmutcaNN00&background=0c0c0e&border=27272f&border_radius=12&ring=2997FF&fire=30D158&currStreakLabel=38BDF8&sideLabels=A1A1AA&dates=86868B&currStreakNum=F5F5F7&sideNums=F5F5F7&stroke=27272f" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=UmutcaNN00&background=0c0c0e&border=27272f&border_radius=12&ring=0284C7&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=A1A1AA&dates=A1A1AA&currStreakNum=F5F5F7&sideNums=F5F5F7&stroke=27272f" alt="GitHub Streak" width="49%" />
 </p>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0c0c0e&color=a1a1aa&line=2997ff&point=30d158&area=true&area_color=0284c7&border_color=27272f&radius=12&custom_title=Aktivite%20Dalgas%C4%B1" alt="Activity Wave Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0c0c0e&color=a1a1aa&line=38bdf8&point=7dd3fc&area=true&area_color=0284c7&border_color=27272f&radius=12&custom_title=Aktivite%20Dalgas%C4%B1" alt="Activity Wave Graph" width="100%" />
 
 <br />
 

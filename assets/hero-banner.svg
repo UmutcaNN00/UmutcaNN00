@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0c0c0e"/>
-      <stop offset="55%" stop-color="#111114"/>
+      <stop offset="55%" stop-color="#141417"/>
       <stop offset="100%" stop-color="#141417"/>
     </linearGradient>
     <linearGradient id="borderBeam" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#30d158"/>
-      <stop offset="100%" stop-color="#5e5ce6"/>
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f5f5f7"/>
@@ -16,33 +16,33 @@
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#30d158"/>
-      <stop offset="100%" stop-color="#5e5ce6"/>
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="barCyan" x1="0%" y1="100%" x2="0%" y2="0%">
       <stop offset="0%" stop-color="#0284c7" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="barEmerald" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#30d158" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#30d158"/>
+      <stop offset="0%" stop-color="#0369a1" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0284c7"/>
     </linearGradient>
     <linearGradient id="areaSig" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.24"/>
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowEmerald" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#30d158" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#30d158" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#5e5ce6" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#0369a1" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0"/>
     </radialGradient>
     <filter id="neonBloom" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
@@ -107,17 +107,17 @@
     </g>
 
     <circle class="pt1" cx="465" cy="70" r="2.2" fill="#38bdf8"/>
-    <circle class="pt2" cx="535" cy="145" r="2.0" fill="#30d158"/>
-    <circle class="pt3" cx="420" cy="180" r="1.8" fill="#5e5ce6"/>
+    <circle class="pt2" cx="535" cy="145" r="2.0" fill="#7dd3fc"/>
+    <circle class="pt3" cx="420" cy="180" r="1.8" fill="#0284c7"/>
     <circle class="pt1" cx="575" cy="48" r="1.8" fill="#38bdf8"/>
-    <circle class="pt2" cx="310" cy="195" r="2.0" fill="#30d158"/>
-    <circle class="pt3" cx="95" cy="192" r="1.6" fill="#5e5ce6"/>
+    <circle class="pt2" cx="310" cy="195" r="2.0" fill="#7dd3fc"/>
+    <circle class="pt3" cx="95" cy="192" r="1.6" fill="#0284c7"/>
 
     <g transform="translate(42, 36)">
-      <rect x="0" y="0" width="356" height="30" rx="15" fill="#141417" stroke="#27272f" stroke-width="1"/>
-      <circle cx="17" cy="15" r="6" fill="#30d158" opacity="0.22"/>
-      <circle class="pulse-dot" cx="17" cy="15" r="3.5" fill="#30d158"/>
-      <text x="31" y="19" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.2" font-weight="600" letter-spacing="0.8">ONLINE · LOCAL-FIRST SYSTEMS ARCHITECT</text>
+      <rect x="0" y="0" width="356" height="30" rx="15" fill="#172536" stroke="#0284c7" stroke-width="1"/>
+      <circle cx="17" cy="15" r="6" fill="#38bdf8" opacity="0.22"/>
+      <circle class="pulse-dot" cx="17" cy="15" r="3.5" fill="#38bdf8"/>
+      <text x="31" y="19" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.2" font-weight="600" letter-spacing="0.8">ONLINE · LOCAL-FIRST SYSTEMS ARCHITECT</text>
 
       <text x="0" y="96" fill="url(#titleGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.2">Umutcan</text>
       <text x="2" y="130" fill="#a1a1aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500">Büyük Veri Analitiği · Bilimsel İstatistik · Otonom Sistemler</text>
@@ -127,9 +127,9 @@
     </g>
 
     <g transform="translate(605, 26)">
-      <rect x="0" y="0" width="355" height="196" rx="14" fill="#000000" fill-opacity="0.88" stroke="#27272f" stroke-width="1"/>
-      <text x="16" y="26" fill="#86868b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.7">ENGINE TELEMETRY · ZERO-COPY STREAM</text>
-      <circle cx="335" cy="22" r="3.5" fill="#30d158" class="pulse-dot"/>
+      <rect x="0" y="0" width="355" height="196" rx="14" fill="#0c0c0e" fill-opacity="0.88" stroke="#27272f" stroke-width="1"/>
+      <text x="16" y="26" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.7">ENGINE TELEMETRY · ZERO-COPY STREAM</text>
+      <circle cx="335" cy="22" r="3.5" fill="#38bdf8" class="pulse-dot"/>
 
       <circle class="orbit-ring" cx="178" cy="90" r="46" fill="none" stroke="#27272f" stroke-width="1" stroke-dasharray="6 6" opacity="0.75"/>
 
@@ -147,7 +147,7 @@
       <rect class="bar b7" x="282" y="60" width="24" height="74" rx="4" fill="url(#barCyan)"/>
 
       <path class="signal" d="M 28 112 Q 82 74, 134 94 T 236 66 T 326 56" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round" filter="url(#neonBloom)"/>
-      <circle cx="326" cy="56" r="4.2" fill="#30d158" filter="url(#neonBloom)"/>
+      <circle cx="326" cy="56" r="4.2" fill="#7dd3fc" filter="url(#neonBloom)"/>
 
       <g transform="translate(16, 148)">
         <rect x="0"   y="0" width="102" height="30" rx="7" fill="#141417" stroke="#27272f" stroke-width="1"/>
@@ -157,7 +157,7 @@
         <text x="161" y="19" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">60 grafik</text>
 
         <rect x="220" y="0" width="102" height="30" rx="7" fill="#141417" stroke="#27272f" stroke-width="1"/>
-        <text x="271" y="19" text-anchor="middle" fill="#30d158" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">%100 yerel</text>
+        <text x="271" y="19" text-anchor="middle" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">%100 yerel</text>
       </g>
     </g>
   </g>
