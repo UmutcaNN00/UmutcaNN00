@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Animated Footer Wave">
+  <defs>
+    <linearGradient id="waveCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="waveEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.2"/>
+    </linearGradient>
+    <style><![CDATA[
+      .w1 { animation: waveDrift1 9s ease-in-out infinite; }
+      .w2 { animation: waveDrift2 12s ease-in-out infinite; }
+      @keyframes waveDrift1 { 0%, 100% { transform: translateX(0px); } 50% { transform: translateX(-35px); } }
+      @keyframes waveDrift2 { 0%, 100% { transform: translateX(-25px); } 50% { transform: translateX(15px); } }
+    ]]></style>
+  </defs>
+  <path class="w1" d="M -50 45 Q 120 12, 290 45 T 630 45 T 970 45 T 1100 45 L 1100 95 L -50 95 Z" fill="url(#waveCyan)"/>
+  <path class="w2" d="M -50 56 Q 150 82, 340 52 T 700 54 T 1050 48 L 1050 95 L -50 95 Z" fill="url(#waveEmerald)"/>
+</svg>
