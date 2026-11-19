@@ -67,14 +67,14 @@
 <br /><br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&bg_color=0b1120&border_color=1e293b&border_radius=12&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutcaNN00&show_icons=true&bg_color=0c0c0e&border_color=27272f&border_radius=12&title_color=38bdf8&icon_color=30d158&text_color=c4c4cc&include_all_commits=true" alt="GitHub Stats" width="49%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=UmutcaNN00&background=0b1120&border_color=1e293b&border_radius=12&ring=38BDF8&fire=10B981&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=1e293b" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=UmutcaNN00&background=0c0c0e&border=27272f&border_radius=12&ring=2997FF&fire=30D158&currStreakLabel=38BDF8&sideLabels=A1A1AA&dates=86868B&currStreakNum=F5F5F7&sideNums=F5F5F7&stroke=27272f" alt="GitHub Streak" width="49%" />
 </p>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0b1120&color=94a3b8&line=38bdf8&point=10b981&area=true&area_color=0ea5e9&border_color=1e293b&radius=12&custom_title=Aktivite%20Dalgas%C4%B1" alt="Activity Wave Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutcaNN00&bg_color=0c0c0e&color=a1a1aa&line=2997ff&point=30d158&area=true&area_color=0284c7&border_color=27272f&radius=12&custom_title=Aktivite%20Dalgas%C4%B1" alt="Activity Wave Graph" width="100%" />
 
 <br />
 

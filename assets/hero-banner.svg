@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Umutcan — Local-First Big Data &amp; AI Systems Architect">
   <defs>
     <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1120"/>
-      <stop offset="55%" stop-color="#0d1526"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+      <stop offset="0%" stop-color="#0c0c0e"/>
+      <stop offset="55%" stop-color="#111114"/>
+      <stop offset="100%" stop-color="#141417"/>
     </linearGradient>
     <linearGradient id="borderBeam" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#10b981"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#30d158"/>
+      <stop offset="100%" stop-color="#5e5ce6"/>
     </linearGradient>
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="55%" stop-color="#e0f2fe"/>
+      <stop offset="0%" stop-color="#f5f5f7"/>
+      <stop offset="55%" stop-color="#7dd3fc"/>
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#10b981"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#30d158"/>
+      <stop offset="100%" stop-color="#5e5ce6"/>
     </linearGradient>
     <linearGradient id="barCyan" x1="0%" y1="100%" x2="0%" y2="0%">
       <stop offset="0%" stop-color="#0284c7" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <linearGradient id="barEmerald" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#059669" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#10b981"/>
+      <stop offset="0%" stop-color="#30d158" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#30d158"/>
     </linearGradient>
     <linearGradient id="areaSig" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.28"/>
@@ -37,12 +37,12 @@
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowEmerald" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#30d158" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#30d158" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#5e5ce6" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0"/>
     </radialGradient>
     <filter id="neonBloom" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
@@ -52,7 +52,7 @@
       </feMerge>
     </filter>
     <pattern id="techDots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.4"/>
+      <circle cx="2" cy="2" r="1" fill="#3f3f4a" opacity="0.4"/>
     </pattern>
     <clipPath id="heroClip">
       <rect x="2" y="2" width="996" height="246" rx="18"/>
@@ -95,7 +95,7 @@
     <circle class="glow-b" cx="835" cy="195" r="220" fill="url(#glowEmerald)"/>
     <circle cx="515" cy="215" r="180" fill="url(#glowViolet)"/>
 
-    <g stroke="#1e293b" stroke-width="0.8" opacity="0.55">
+    <g stroke="#27272f" stroke-width="0.8" opacity="0.55">
       <line x1="0" y1="205" x2="1000" y2="205"/>
       <line x1="0" y1="223" x2="1000" y2="223"/>
       <line x1="0" y1="241" x2="1000" y2="241"/>
@@ -107,34 +107,34 @@
     </g>
 
     <circle class="pt1" cx="465" cy="70" r="2.2" fill="#38bdf8"/>
-    <circle class="pt2" cx="535" cy="145" r="2.0" fill="#10b981"/>
-    <circle class="pt3" cx="420" cy="180" r="1.8" fill="#818cf8"/>
+    <circle class="pt2" cx="535" cy="145" r="2.0" fill="#30d158"/>
+    <circle class="pt3" cx="420" cy="180" r="1.8" fill="#5e5ce6"/>
     <circle class="pt1" cx="575" cy="48" r="1.8" fill="#38bdf8"/>
-    <circle class="pt2" cx="310" cy="195" r="2.0" fill="#10b981"/>
-    <circle class="pt3" cx="95" cy="192" r="1.6" fill="#818cf8"/>
+    <circle class="pt2" cx="310" cy="195" r="2.0" fill="#30d158"/>
+    <circle class="pt3" cx="95" cy="192" r="1.6" fill="#5e5ce6"/>
 
     <g transform="translate(42, 36)">
-      <rect x="0" y="0" width="356" height="30" rx="15" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-      <circle cx="17" cy="15" r="6" fill="#10b981" opacity="0.22"/>
-      <circle class="pulse-dot" cx="17" cy="15" r="3.5" fill="#10b981"/>
+      <rect x="0" y="0" width="356" height="30" rx="15" fill="#141417" stroke="#27272f" stroke-width="1"/>
+      <circle cx="17" cy="15" r="6" fill="#30d158" opacity="0.22"/>
+      <circle class="pulse-dot" cx="17" cy="15" r="3.5" fill="#30d158"/>
       <text x="31" y="19" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.2" font-weight="600" letter-spacing="0.8">ONLINE · LOCAL-FIRST SYSTEMS ARCHITECT</text>
 
       <text x="0" y="96" fill="url(#titleGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.2">Umutcan</text>
-      <text x="2" y="130" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500">Büyük Veri Analitiği · Bilimsel İstatistik · Otonom Sistemler</text>
+      <text x="2" y="130" fill="#a1a1aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500">Büyük Veri Analitiği · Bilimsel İstatistik · Otonom Sistemler</text>
 
-      <rect x="2" y="152" width="365" height="4" rx="2" fill="#1e293b"/>
+      <rect x="2" y="152" width="365" height="4" rx="2" fill="#27272f"/>
       <rect class="accent-shimmer" x="2" y="152" width="255" height="4" rx="2" fill="url(#accentBar)"/>
     </g>
 
     <g transform="translate(605, 26)">
-      <rect x="0" y="0" width="355" height="196" rx="14" fill="#090f1d" fill-opacity="0.88" stroke="#1e293b" stroke-width="1"/>
-      <text x="16" y="26" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.7">ENGINE TELEMETRY · ZERO-COPY STREAM</text>
-      <circle cx="335" cy="22" r="3.5" fill="#10b981" class="pulse-dot"/>
+      <rect x="0" y="0" width="355" height="196" rx="14" fill="#000000" fill-opacity="0.88" stroke="#27272f" stroke-width="1"/>
+      <text x="16" y="26" fill="#86868b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.7">ENGINE TELEMETRY · ZERO-COPY STREAM</text>
+      <circle cx="335" cy="22" r="3.5" fill="#30d158" class="pulse-dot"/>
 
-      <circle class="orbit-ring" cx="178" cy="90" r="46" fill="none" stroke="#1e293b" stroke-width="1" stroke-dasharray="6 6" opacity="0.75"/>
+      <circle class="orbit-ring" cx="178" cy="90" r="46" fill="none" stroke="#27272f" stroke-width="1" stroke-dasharray="6 6" opacity="0.75"/>
 
-      <line x1="18" y1="134" x2="337" y2="134" stroke="#1e293b" stroke-width="1"/>
-      <line x1="18" y1="90" x2="337" y2="90" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 4" opacity="0.5"/>
+      <line x1="18" y1="134" x2="337" y2="134" stroke="#27272f" stroke-width="1"/>
+      <line x1="18" y1="90" x2="337" y2="90" stroke="#27272f" stroke-width="1" stroke-dasharray="3 4" opacity="0.5"/>
 
       <path d="M 28 112 Q 82 74, 134 94 T 236 66 T 326 56 L 326 134 L 28 134 Z" fill="url(#areaSig)"/>
 
@@ -147,21 +147,21 @@
       <rect class="bar b7" x="282" y="60" width="24" height="74" rx="4" fill="url(#barCyan)"/>
 
       <path class="signal" d="M 28 112 Q 82 74, 134 94 T 236 66 T 326 56" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round" filter="url(#neonBloom)"/>
-      <circle cx="326" cy="56" r="4.2" fill="#10b981" filter="url(#neonBloom)"/>
+      <circle cx="326" cy="56" r="4.2" fill="#30d158" filter="url(#neonBloom)"/>
 
       <g transform="translate(16, 148)">
-        <rect x="0"   y="0" width="102" height="30" rx="7" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-        <text x="51"  y="19" text-anchor="middle" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">174.6M satır</text>
+        <rect x="0"   y="0" width="102" height="30" rx="7" fill="#141417" stroke="#27272f" stroke-width="1"/>
+        <text x="51"  y="19" text-anchor="middle" fill="#f5f5f7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">174.6M satır</text>
 
-        <rect x="110" y="0" width="102" height="30" rx="7" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+        <rect x="110" y="0" width="102" height="30" rx="7" fill="#141417" stroke="#27272f" stroke-width="1"/>
         <text x="161" y="19" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">60 grafik</text>
 
-        <rect x="220" y="0" width="102" height="30" rx="7" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-        <text x="271" y="19" text-anchor="middle" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">%100 yerel</text>
+        <rect x="220" y="0" width="102" height="30" rx="7" fill="#141417" stroke="#27272f" stroke-width="1"/>
+        <text x="271" y="19" text-anchor="middle" fill="#30d158" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">%100 yerel</text>
       </g>
     </g>
   </g>
 
-  <rect x="2" y="2" width="996" height="246" rx="18" fill="none" stroke="#1e293b" stroke-width="1.2"/>
+  <rect x="2" y="2" width="996" height="246" rx="18" fill="none" stroke="#27272f" stroke-width="1.2"/>
   <rect class="border-trace" x="2" y="2" width="996" height="246" rx="18" fill="none" stroke="url(#borderBeam)" stroke-width="2" filter="url(#neonBloom)"/>
 </svg>

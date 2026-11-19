@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 18" width="1000" height="18" role="img" aria-label="Neon Pulse Divider">
   <defs>
     <linearGradient id="divBase" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1e293b" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#1e293b" stop-opacity="0.9"/>
-      <stop offset="85%" stop-color="#1e293b" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#1e293b" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#27272f" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#27272f" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#27272f" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#27272f" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="divBeam" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
       <stop offset="45%" stop-color="#38bdf8" stop-opacity="0.95"/>
-      <stop offset="60%" stop-color="#10b981" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#30d158" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#30d158" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="divClip">
       <rect x="0" y="0" width="1000" height="18"/>

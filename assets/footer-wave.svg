@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 95" width="1000" height="95" role="img" aria-label="Aurora Footer Wave">
   <defs>
     <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.22"/>
+      <stop offset="0%" stop-color="#2997ff" stop-opacity="0.22"/>
       <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#30d158" stop-opacity="0.22"/>
     </linearGradient>
     <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.18"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.26"/>
+      <stop offset="0%" stop-color="#30d158" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#5e5ce6" stop-opacity="0.26"/>
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.18"/>
     </linearGradient>
     <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.14"/>
+      <stop offset="0%" stop-color="#5e5ce6" stop-opacity="0.14"/>
       <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#30d158" stop-opacity="0.16"/>
     </linearGradient>
     <style><![CDATA[
       .w1 { animation: waveDrift1 9s ease-in-out infinite; }
@@ -30,6 +30,6 @@
   <path class="w2" d="M -60 56 Q 150 84, 340 52 T 700 54 T 1060 48 L 1060 100 L -60 100 Z" fill="url(#wave2)"/>
   <path class="w3" d="M -60 68 Q 180 42, 380 66 T 760 62 T 1100 66 L 1100 100 L -60 100 Z" fill="url(#wave3)"/>
   <circle class="fp" cx="180" cy="34" r="2.2" fill="#38bdf8"/>
-  <circle class="fp" cx="510" cy="28" r="2.5" fill="#10b981"/>
-  <circle class="fp" cx="810" cy="36" r="2.0" fill="#818cf8"/>
+  <circle class="fp" cx="510" cy="28" r="2.5" fill="#30d158"/>
+  <circle class="fp" cx="810" cy="36" r="2.0" fill="#5e5ce6"/>
 </svg>
